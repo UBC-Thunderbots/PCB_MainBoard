@@ -29,6 +29,6 @@ Password | *your github login password*
 7. Click *Test* and pray.
 8. Celebrate!
 
-After your repository is connected, you can add or remove files like a regular Altium Project folder and then commit them from within Altium Designer by right-clicking on any project files in the **Projects** and hovering the mouse cursor over **Version Control**.
+After your repository is connected, you can add or remove files like a regular Altium Project folder and then commit them from within Altium Designer by right-clicking on any project files in the **Projects** and hovering the mouse cursor over **Version Control**. When you have finsihed making your changes to your branch, submit a pull request to have it merged with Master.
 
 Reference page: https://forum.live.altium.com/#posts/235981/718003
