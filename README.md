@@ -8,8 +8,8 @@ Github SVN repository for UBC Thunderbots PCB_NucleoClone Altium project files.
 2. Altium Designer
 
 ## Instructions
-1. Create a branch of Master in github.
-1. Clone your branch of the UBC-Thunderbots/Altium_Libraries repo to your PC (i.e. C:/Documents/GitHub/Altium_Libraries)
+1. Create a working branch of Master in github.
+1. Clone your working branch of the UBC-Thunderbots/PCB_NucleoClone repo to your PC (i.e. C:/Documents/GitHub/PCB_NucleoClone)
 2. In Altium Designer, navigate to **Preferences** -> **Data Management** -> **Version Control** and ensure *SVN - Subversion* is enabled and Version 1.9 is selected.
 4. In Altium Designer, navigate to **Preferences** -> **Data Management** -> **Design Repositories**.
 5. Within **Design Repositories** click on on *Connect To* -> *SVN*.
@@ -17,12 +17,12 @@ Github SVN repository for UBC Thunderbots PCB_NucleoClone Altium project files.
 
 Field | Selection/Input
 --- | ---
-Name | Altium_Libraries
-Default Checkout Path | *location of the cloned UBC-Thunderbots/PCB_MotorDriver repository (i.e. C:/Documents/GitHub/Altium_Libraries)*
+Name | PCB_NucleoClone
+Default Checkout Path | *location of the cloned UBC-Thunderbots/PCB_MotorDriver repository (i.e. C:/Documents/GitHub/PCB_NucleoClone)*
 Method | https
 Server | github.com
 Server Port | Default
-Repository Subfolder | /UBC-Thunderbots/Altium_Libraries
+Repository Subfolder | /UBC-Thunderbots/PCB_NucleoClone
 User Name | *your github login username*
 Password | *your github login password*
 
