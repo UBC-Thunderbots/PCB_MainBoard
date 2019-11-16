@@ -8,7 +8,7 @@ Github SVN repository for UBC Thunderbots PCB_NucleoClone Altium project files.
 2. Altium Designer
 
 ## Instructions
-1. Create a Branch of Master in github.
+1. Create a branch of Master in github.
 1. Clone your branch of the UBC-Thunderbots/Altium_Libraries repo to your PC (i.e. C:/Documents/GitHub/Altium_Libraries)
 2. In Altium Designer, navigate to **Preferences** -> **Data Management** -> **Version Control** and ensure *SVN - Subversion* is enabled and Version 1.9 is selected.
 4. In Altium Designer, navigate to **Preferences** -> **Data Management** -> **Design Repositories**.
