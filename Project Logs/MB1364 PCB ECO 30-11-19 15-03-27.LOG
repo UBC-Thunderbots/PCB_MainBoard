@@ -1,0 +1,11 @@
+Added Component: Designator=C1(CAPC2013X110N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-1136-1-ND"; VariantName = "Thunderbots_Clone"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/product-detail/en/yageo/CC0805KRX7R9BB103/311-1136-1-ND/303046"; VariantName = "Thunderbots_Clone"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "Thunderbots_Clone"
+Add component (AddParameter): Name = "MP"; Value = "CC0805KRX7R9BB103"; VariantName = "Thunderbots_Clone"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "Thunderbots_Clone"
+Add component (AddParameter): Name = "Price"; Value = "0,1 CAD"; VariantName = "Thunderbots_Clone"
+Add component (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "Thunderbots_Clone"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "Thunderbots_Clone"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "Thunderbots_Clone"
