@@ -120,7 +120,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=EUNNRGET
+DocumentUniqueId=KMTFDJAL
 
 [Document6]
 DocumentPath=Power_Board_Clone.SchDoc
@@ -157,24 +157,24 @@ GenerateClassCluster=0
 DocumentUniqueId=NMUTPFDG
 
 [Parameter1]
-Name=Board_Assembly_Revision
-Value=01
+Name=Board_Reference
+Value=MB1364
 
 [Parameter2]
-Name=Board_Document_Date
-Value=17-DEC-2018
+Name=Board_PCB_Revision
+Value=C
 
 [Parameter3]
 Name=Board_Name
 Value=NUCLEO 144 H7 LEGACY
 
 [Parameter4]
-Name=Board_PCB_Revision
-Value=C
+Name=Board_Document_Date
+Value=17-DEC-2018
 
 [Parameter5]
-Name=Board_Reference
-Value=MB1364
+Name=Board_Assembly_Revision
+Value=01
 
 [Configuration1]
 Name=Default Configuration
@@ -992,7 +992,7 @@ Type65=1
 Type66=1
 
 [Electrical Rules Check]
-Type1=2
+Type1=1
 Type2=1
 Type3=2
 Type4=1
