@@ -156,6 +156,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NMUTPFDG
 
+[Document8]
+DocumentPath=NucleoClone.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GQFMCTNG
+
 [Parameter1]
 Name=Board_Assembly_Revision
 Value=01
