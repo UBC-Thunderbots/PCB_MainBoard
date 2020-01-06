@@ -37,3 +37,7 @@ Project\ Outputs*/
 *.net
 
 # End of https://www.gitignore.io/api/altium,ltspice
+__Previews/Ethernet.SchDocPreview
+__Previews/MCU_144_IOs.SchDocPreview
+__Previews/ST_LINK_V3E.SchDocPreview
+*.SchDocPreview
