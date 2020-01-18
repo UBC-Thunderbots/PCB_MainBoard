@@ -41,3 +41,4 @@ __Previews/Ethernet.SchDocPreview
 __Previews/MCU_144_IOs.SchDocPreview
 __Previews/ST_LINK_V3E.SchDocPreview
 *.SchDocPreview
+STM32CubeIDE/.settings/language.settings.xml
