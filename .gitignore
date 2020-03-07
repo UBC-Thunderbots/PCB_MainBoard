@@ -14,6 +14,9 @@ Project\ Logs*/
 
 # Project Outputs
 Project\ Outputs*/
+!Project\ Logs*/*.csv
+!Project\ Logs*/*.xlsx
+!Project\ Logs*/*.pdf
 
 # Auto-conversion notices
 *.PcbDoc.htm
