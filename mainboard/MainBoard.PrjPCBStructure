@@ -1,5 +1,1 @@
-Record=TopLevelDocument|FileName=MainBoard_Top.SchDoc
-Record=SheetSymbol|SourceDocument=MainBoard_Top.SchDoc|Designator=U_MCU_PWR|SchDesignator=U_MCU_PWR|FileName=MainBoard_MCU_PWR.SchDoc|SymbolType=Normal|RawFileName=MainBoard_MCU_PWR.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=MainBoard_Top.SchDoc|Designator=U_MCUCONN|SchDesignator=U_MCUCONN|FileName=MainBoard_Connectors.SchDoc|SymbolType=Normal|RawFileName=MainBoard_Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=MainBoard_Top.SchDoc|Designator=U_MCUIOs|SchDesignator=U_MCUIOs|FileName=MainBoard_144_IOs.SchDoc|SymbolType=Normal|RawFileName=MainBoard_144_IOs.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=MainBoard_Top.SchDoc|Designator=U_MCUUSB|SchDesignator=U_MCUUSB|FileName=MainBoard_USB.SchDoc|SymbolType=Normal|RawFileName=MainBoard_USB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=MainBoard_144_IOs.SchDoc
