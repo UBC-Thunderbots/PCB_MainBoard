@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 [Design]
+=======
+﻿[Design]
+>>>>>>> Stashed changes
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -39,12 +43,20 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=MainBoard_144_IOs.SchDoc
+<<<<<<< Updated upstream
 AnnotationEnabled=1
+=======
+AnnotationEnabled=0
+>>>>>>> Stashed changes
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
+<<<<<<< Updated upstream
 AnnotateOrder=-1
+=======
+AnnotateOrder=0
+>>>>>>> Stashed changes
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -55,13 +67,22 @@ GenerateClassCluster=0
 DocumentUniqueId=TEBJKVVP
 
 [Document2]
+<<<<<<< Updated upstream
 DocumentPath=MainBoard_Connectors.SchDoc
 AnnotationEnabled=1
+=======
+DocumentPath=MainBoard_MCU_PWR.SchDoc
+AnnotationEnabled=0
+>>>>>>> Stashed changes
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
+<<<<<<< Updated upstream
 AnnotateOrder=-1
+=======
+AnnotateOrder=1
+>>>>>>> Stashed changes
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -69,10 +90,17 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< Updated upstream
 DocumentUniqueId=KAHHUSJH
 
 [Document3]
 DocumentPath=MainBoard_MCU_PWR.SchDoc
+=======
+DocumentUniqueId=ALMMRROK
+
+[Document3]
+DocumentPath=Matthew_Layout.PcbDoc
+>>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -86,16 +114,39 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< Updated upstream
 DocumentUniqueId=ALMMRROK
 
 [Document4]
 DocumentPath=MainBoard_USB.SchDoc
-AnnotationEnabled=1
+=======
+DocumentUniqueId=FFRQFDBC
+
+[Document4]
+DocumentPath=MainBoard_Top.SchDoc
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MBEHJXJK
+
+[Document5]
+DocumentPath=MainBoard_USB.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -104,6 +155,164 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RKNFLGXP
+
+[Document6]
+DocumentPath=Mainboard_Encoder Connector.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=4
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NVYXDBPI
+
+[Document7]
+DocumentPath=Mainboard_User LED3 Connector.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VDSDUXIC
+
+[Document8]
+DocumentPath=Mainboard_User LED2 Connector.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GCZAJMQA
+
+[Document9]
+DocumentPath=Mainboard_JTAG Connector.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NSWUEQYA
+
+[Document10]
+DocumentPath=Mainboard_RMII Header Connector.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DTBDNIMS
+
+[Document11]
+DocumentPath=Mainboard_PWR Board Connector.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JPYQETOU
+
+[Document12]
+DocumentPath=Mainboard_PowerInterface.SchDoc
+>>>>>>> Stashed changes
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+<<<<<<< Updated upstream
+DocumentUniqueId=RKNFLGXP
+=======
+DocumentUniqueId=YDWKYYKT
+
+[Document13]
+DocumentPath=Mainboard_UserInterface.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FAVYEURA
+
+[Document14]
+DocumentPath=Mainboard_EncoderInterface.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XCFJKZGD
+>>>>>>> Stashed changes
 
 [Configuration1]
 Name=Sources
@@ -292,6 +501,15 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+<<<<<<< Updated upstream
+=======
+OutputType11=PDF3D MBA
+OutputName11=PDF3D MBA
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+>>>>>>> Stashed changes
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -547,6 +765,7 @@ OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
 PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+<<<<<<< Updated upstream
 OutputType18=Text Print
 OutputName18=Text Print
 OutputDocumentPath18=
@@ -619,6 +838,8 @@ OutputDocumentPath29=
 OutputVariantName29=
 OutputDefault29=0
 PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+=======
+>>>>>>> Stashed changes
 
 [OutputGroup8]
 Name=Validation Outputs
@@ -854,6 +1075,11 @@ Type114=1
 Type115=1
 Type116=1
 Type117=1
+<<<<<<< Updated upstream
+=======
+Type118=1
+Type119=1
+>>>>>>> Stashed changes
 
 [Difference Levels]
 Type1=1
@@ -922,6 +1148,11 @@ Type63=1
 Type64=1
 Type65=1
 Type66=1
+<<<<<<< Updated upstream
+=======
+Type67=1
+Type68=1
+>>>>>>> Stashed changes
 
 [Electrical Rules Check]
 Type1=1
@@ -930,19 +1161,29 @@ Type3=2
 Type4=1
 Type5=2
 Type6=2
+<<<<<<< Updated upstream
 Type7=1
+=======
+Type7=0
+>>>>>>> Stashed changes
 Type8=1
 Type9=1
 Type10=1
 Type11=2
+<<<<<<< Updated upstream
 Type12=2
 Type13=2
+=======
+Type12=0
+Type13=0
+>>>>>>> Stashed changes
 Type14=1
 Type15=1
 Type16=1
 Type17=1
 Type18=1
 Type19=1
+<<<<<<< Updated upstream
 Type20=1
 Type21=1
 Type22=1
@@ -950,13 +1191,26 @@ Type23=1
 Type24=1
 Type25=2
 Type26=2
+=======
+Type20=0
+Type21=0
+Type22=0
+Type23=0
+Type24=1
+Type25=2
+Type26=0
+>>>>>>> Stashed changes
 Type27=2
 Type28=1
 Type29=1
 Type30=1
 Type31=1
 Type32=2
+<<<<<<< Updated upstream
 Type33=2
+=======
+Type33=0
+>>>>>>> Stashed changes
 Type34=2
 Type35=1
 Type36=2
@@ -967,6 +1221,7 @@ Type40=2
 Type41=0
 Type42=2
 Type43=1
+<<<<<<< Updated upstream
 Type44=1
 Type45=2
 Type46=1
@@ -976,6 +1231,17 @@ Type49=1
 Type50=2
 Type51=1
 Type52=1
+=======
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
+Type50=2
+Type51=0
+Type52=0
+>>>>>>> Stashed changes
 Type53=1
 Type54=1
 Type55=1
@@ -983,10 +1249,17 @@ Type56=2
 Type57=1
 Type58=1
 Type59=2
+<<<<<<< Updated upstream
 Type60=1
 Type61=2
 Type62=2
 Type63=1
+=======
+Type60=0
+Type61=0
+Type62=0
+Type63=0
+>>>>>>> Stashed changes
 Type64=0
 Type65=2
 Type66=3
@@ -1024,7 +1297,11 @@ Type97=2
 Type98=0
 Type99=1
 Type100=2
+<<<<<<< Updated upstream
 Type101=1
+=======
+Type101=0
+>>>>>>> Stashed changes
 Type102=2
 Type103=2
 Type104=1
@@ -1046,6 +1323,10 @@ Type119=3
 MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
+<<<<<<< Updated upstream
+=======
+Type123=1
+>>>>>>> Stashed changes
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1069,6 +1350,10 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=3
 SortLocation=0
+<<<<<<< Updated upstream
+=======
+ReplaceSubparts=0
+>>>>>>> Stashed changes
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
@@ -1089,6 +1374,10 @@ NetClassSeparateForBusSections=0
 [LibraryUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
+<<<<<<< Updated upstream
+=======
+UpdateToLatestRevision=1
+>>>>>>> Stashed changes
 PartTypes=0
 FullReplace=1
 UpdateDesignatorLock=1
@@ -1107,6 +1396,10 @@ UpdateCurrentModels=1
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
+<<<<<<< Updated upstream
+=======
+UpdateToLatestRevision=1
+>>>>>>> Stashed changes
 PartTypes=0
 
 [Comparison Options]
