@@ -40,8 +40,8 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=MainBoard_MCUBreakout.SchDoc
-AnnotationEnabled=0
+DocumentPath=MainBoard_MCU_Breakout.SchDoc
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -54,11 +54,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TEBJKVVP
+DocumentUniqueId=JMIIVRKT
 
 [Document2]
-DocumentPath=MainBoard_MCUPwr.SchDoc
-AnnotationEnabled=0
+DocumentPath=MainBoard_MCU_Power.SchDoc
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -71,11 +71,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ALMMRROK
+DocumentUniqueId=ELAEZNZR
 
 [Document3]
 DocumentPath=MainBoard_Top.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -92,7 +92,7 @@ DocumentUniqueId=MBEHJXJK
 
 [Document4]
 DocumentPath=MainBoard_USB.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -108,7 +108,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RKNFLGXP
 
 [Document5]
-DocumentPath=Mainboard_Encoder Connector.SchDoc
+DocumentPath=Mainboard_Encoder_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -122,11 +122,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NVYXDBPI
+DocumentUniqueId=LZNAODVX
 
 [Document6]
 DocumentPath=Mainboard_User LED3 Connector.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -143,7 +143,7 @@ DocumentUniqueId=VDSDUXIC
 
 [Document7]
 DocumentPath=Mainboard_User LED2 Connector.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -160,7 +160,7 @@ DocumentUniqueId=GCZAJMQA
 
 [Document8]
 DocumentPath=Mainboard_JTAG Connector.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -176,8 +176,8 @@ GenerateClassCluster=0
 DocumentUniqueId=NSWUEQYA
 
 [Document9]
-DocumentPath=Mainboard_RMII Header Connector.SchDoc
-AnnotationEnabled=0
+DocumentPath=Mainboard_RMII_Interface.SchDoc
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -190,11 +190,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=DTBDNIMS
+DocumentUniqueId=QLLUCSTR
 
 [Document10]
-DocumentPath=Mainboard_PWR Board Connector.SchDoc
-AnnotationEnabled=0
+DocumentPath=Mainboard_Power_Interface.SchDoc
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -210,13 +210,13 @@ GenerateClassCluster=0
 DocumentUniqueId=YDWKYYKT
 
 [Document11]
-DocumentPath=Mainboard_MotorDriverInterface.SchDoc
+DocumentPath=Mainboard_Motordriver_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=10
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -224,16 +224,16 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=FYZEVSLS
+DocumentUniqueId=NKUTRTME
 
 [Document12]
-DocumentPath=Mainboard_WifiInterface.SchDoc
+DocumentPath=Mainboard_Wifi_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=11
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -241,16 +241,16 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BDJMMQWD
+DocumentUniqueId=DZPZYNMS
 
 [Document13]
-DocumentPath=Mainboard_MCUFunc.SchDoc
+DocumentPath=Mainboard_MCU_Func.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=12
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -259,6 +259,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HQXQFUBD
+
+[Document14]
+DocumentPath=MainBoard_Layout_V2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
@@ -1184,10 +1201,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Miscellaneous Connectors.IntLib
+ComponentDesignItemID0=Header 7X2A
+ComponentSymbolReference0=Header 7X2A
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1201,6 +1224,30 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=LatestRevisionDate
+ParameterUpdate3=1
+ParameterName4=LatestRevisionNote
+ParameterUpdate4=1
+ParameterName5=Library Reference
+ParameterUpdate5=1
+ParameterName6=Publisher
+ParameterUpdate6=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=HDR2X7_CEN
+ModelUpdate0=1
+ModelTypeGroup1=SI
+ModelTypeUpdate1=1
+ModelType1=SI
+ModelName1=Connector
+ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
