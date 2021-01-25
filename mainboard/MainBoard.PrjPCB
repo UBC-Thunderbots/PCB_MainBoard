@@ -108,23 +108,6 @@ GenerateClassCluster=0
 DocumentUniqueId=PHOOICBG
 
 [Document5]
-DocumentPath=MainBoard_USB.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=0
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=RKNFLGXP
-
-[Document6]
 DocumentPath=Mainboard_MCU_Func.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -141,7 +124,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HQXQFUBD
 
-[Document7]
+[Document6]
 DocumentPath=Mainboard_Encoder_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -158,7 +141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LZNAODVX
 
-[Document8]
+[Document7]
 DocumentPath=Mainboard_User LED3 Connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -175,7 +158,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VDSDUXIC
 
-[Document9]
+[Document8]
 DocumentPath=Mainboard_User LED2 Connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -192,24 +175,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GCZAJMQA
 
-[Document10]
-DocumentPath=Mainboard_JTAG Connector.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=7
-DoLibraryUpdate=0
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NSWUEQYA
-
-[Document11]
+[Document9]
 DocumentPath=Mainboard_RMII_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -226,7 +192,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLLUCSTR
 
-[Document12]
+[Document10]
 DocumentPath=Mainboard_Power_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -243,7 +209,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YDWKYYKT
 
-[Document13]
+[Document11]
 DocumentPath=Mainboard_Motordriver_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -260,7 +226,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKUTRTME
 
-[Document14]
+[Document12]
 DocumentPath=Mainboard_Wifi_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -277,7 +243,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DZPZYNMS
 
-[Document15]
+[Document13]
 DocumentPath=MainBoard_Layout_V2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -294,7 +260,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AHJFJXEY
 
-[Document16]
+[Document14]
 DocumentPath=Mainboard_Debug_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
