@@ -97,7 +97,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=13
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -142,40 +142,6 @@ GenerateClassCluster=0
 DocumentUniqueId=LZNAODVX
 
 [Document7]
-DocumentPath=Mainboard_User LED3 Connector.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VDSDUXIC
-
-[Document8]
-DocumentPath=Mainboard_User LED2 Connector.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GCZAJMQA
-
-[Document9]
 DocumentPath=Mainboard_RMII_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -192,7 +158,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLLUCSTR
 
-[Document10]
+[Document8]
 DocumentPath=Mainboard_Power_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -209,7 +175,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YDWKYYKT
 
-[Document11]
+[Document9]
 DocumentPath=Mainboard_Motordriver_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -226,7 +192,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKUTRTME
 
-[Document12]
+[Document10]
 DocumentPath=Mainboard_Wifi_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -243,7 +209,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DZPZYNMS
 
-[Document13]
+[Document11]
 DocumentPath=MainBoard_Layout_V2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -260,14 +226,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AHJFJXEY
 
-[Document14]
+[Document12]
 DocumentPath=Mainboard_Debug_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=14
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -276,6 +242,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XTMSUNXC
+
+[Document13]
+DocumentPath=Mainboard_User_Interface.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=15
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FAVYEURA
 
 [Configuration1]
 Name=Sources
