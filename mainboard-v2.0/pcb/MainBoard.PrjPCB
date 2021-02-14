@@ -23,11 +23,13 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
+AutoSheetNumbering=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -38,23 +40,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=C:\Users\Taylor\Desktop\MainBoard_Layout_V2_Taylor.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AHJFJXEY
-
-[Document2]
 DocumentPath=Mainboard_MCU_Breakout.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +56,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ETDLHIBU
 
-[Document3]
+[Document2]
 DocumentPath=MainBoard_MCU_Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +73,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ELAEZNZR
 
-[Document4]
+[Document3]
 DocumentPath=MainBoard_Top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +90,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MBEHJXJK
 
-[Document5]
+[Document4]
 DocumentPath=Mainboard_MCU_Func.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +107,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HQXQFUBD
 
-[Document6]
+[Document5]
 DocumentPath=Mainboard_Power_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +124,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YDWKYYKT
 
-[Document7]
+[Document6]
 DocumentPath=Mainboard_Breakbeam_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PHOOICBG
 
-[Document8]
+[Document7]
 DocumentPath=Mainboard_Encoder_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +158,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LZNAODVX
 
-[Document9]
+[Document8]
 DocumentPath=Mainboard_Motordriver_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +175,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NKUTRTME
 
-[Document10]
+[Document9]
 DocumentPath=MainBoard_Layout_V2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +192,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AHJFJXEY
 
-[Document11]
+[Document10]
 DocumentPath=Mainboard_User_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +209,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FAVYEURA
 
-[Document12]
+[Document11]
 DocumentPath=Mainboard_Debug_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +226,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XTMSUNXC
 
-[Document13]
+[Document12]
 DocumentPath=Mainboard_RMII_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +243,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QLLUCSTR
 
-[Document14]
+[Document13]
 DocumentPath=Mainboard_Wifi_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +260,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DZPZYNMS
 
-[Document15]
+[Document14]
 DocumentPath=Mainboard_ThermistorAmp.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +277,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XHUFNFCI
 
-[Document16]
+[Document15]
 DocumentPath=MainBoard.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1234,6 +1219,8 @@ MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
+Type124=1
+Type125=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1332,12 +1319,12 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
