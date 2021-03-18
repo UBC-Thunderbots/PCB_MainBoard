@@ -326,7 +326,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AJDQYTTM
 
 [Document18]
 DocumentPath=..\..\..\Altium_Libraries\AltiumLibraries.SchLib
@@ -343,7 +343,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JLPJFXRK
 
 [Configuration1]
 Name=Sources
