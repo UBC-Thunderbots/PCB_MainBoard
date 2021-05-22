@@ -372,98 +372,206 @@ DocumentPath=Project Outputs for MainBoard\Design Rule Check - MainBoard_Layout_
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for MainBoard\NC Drill\MainBoard_Layout_V2.DRR
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.EXTREP
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.G1
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.G1
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.G2
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.G2
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GBL
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GBO
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GBS
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GKO
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GM1
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GM4
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GM5
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GM7
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GM13
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GM15
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GM16
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GM40
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GTL
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.GM40
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GTO
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GTS
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for MainBoard\NC Drill\MainBoard_Layout_V2.LDP
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.REP
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.RUL
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for MainBoard\NC Drill\MainBoard_Layout_V2.TXT
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument26]
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for MainBoard\MainBoard_Layout_V2.1.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for MainBoard\NC Drill\MainBoard_Layout_V2.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.G1
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.G2
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GM40
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for MainBoard\NC Drill\MainBoard_Layout_V2.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.REP
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for MainBoard\Gerber\MainBoard_Layout_V2.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for MainBoard\NC Drill\MainBoard_Layout_V2.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument53]
 DocumentPath=Project Outputs for MainBoard\Pick Place\Pick Place for MainBoard_Layout_V2.csv
 DItemRevisionGUID=
 
@@ -727,7 +835,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Foxit PhantomPDF Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -774,6 +882,10 @@ OutputName8=NC Drill Files
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
+Configuration8_Name1=ForceUpdateSettings
+Configuration8_Item1=False
+Configuration8_Name2=OutputConfigurationParameter1
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=D:\Users\Simon\Documents\UBC\Thunderbots\Electrical\PCB_NucleoClone\mainboard-v2.1\pcb\MainBoard_Layout_V2.1.PcbDoc
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
@@ -798,7 +910,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=2|NumberOfDecimals=2|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908292~1,16908293~1,16908295~1,16908301~1,16908303~1,16908304~1,16908328~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False|DocumentPath=D:\UBC-Thunderbots\Electrical\PCB_MainBoard\mainboard-v2.0\pcb\MainBoard_Layout_V2.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=40|MinusApertureTolerance=40|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16777218~1,16777219~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908292~1,16908293~1,16908295~1,16908301~1,16908303~1,16908304~1,16908328~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=40|PlusApertureTolerance=40|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False|DocumentPath=D:\Users\Simon\Documents\UBC\Thunderbots\Electrical\PCB_NucleoClone\mainboard-v2.1\pcb\MainBoard_Layout_V2.1.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
