@@ -1,2 +1,3 @@
-Record=TopLevelDocument|FileName=bob_breakout-bob.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=bob_breakout-bob.SchDoc|FileName=bob_breakout-jetson_nano.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=bob_breakout-top.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=bob_breakout-top.SchDoc|Designator=U_bob_breakout-bob|SchDesignator=U_bob_breakout-bob|FileName=bob_breakout-bob.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=bob_breakout-bob.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=bob_breakout-top.SchDoc|FileName=bob_breakout-jetson_nano.SchDoc|SheetNumber=3
