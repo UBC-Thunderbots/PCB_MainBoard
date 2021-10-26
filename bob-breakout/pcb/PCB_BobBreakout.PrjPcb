@@ -75,7 +75,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HBVNJVTT
 
 [Document3]
-DocumentPath=bob_breakout-v1.0.SchDoc
+DocumentPath=bob_breakout-top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -260,6 +260,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCB_BobBreakout\Design Rule Check - bob_breakout.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
