@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\henry\Documents\University\GitHub\PCB_MainBoard\bob-breakout-v1.1\pcb\bob_breakout-layout.PcbDoc
+Date         : 2021-12-13
+Time         : 12:45:26 AM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 139.954mmx99.949mm
+    Components on board, 101
+count : 2
